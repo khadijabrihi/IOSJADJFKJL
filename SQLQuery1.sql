@@ -21,3 +21,5 @@ CREATE TABLE Agenda(
 	email VARCHAR(100),
 	r_vous DATE
 );
+
+ISERT
